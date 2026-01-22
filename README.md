@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnnGY13
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning html, css
-- 💞️ I’m looking to collaborate on how to learn effectively to get the first job in it industry
+- 👀 I’m studying cyber security
+- - 💞️ I’m looking to collaborate on how to learn effectively to get the first job in it industry
 - 📫 How to reach me via telegram messenger @anngy13
 
 <!---
